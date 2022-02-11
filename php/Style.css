@@ -1,0 +1,32 @@
+body{
+    background-color: navajowhite;
+    border: 2px solid black ;
+    margin: 40px 10% 40px 10%;
+    padding: 5% 5% 5% 5%;
+    text-align: center;
+
+}
+
+Label {
+    display: block;
+    font: 1rem 'fira Sans', Sans-serif;
+}
+input{
+    align-content: center;
+
+}
+
+table{
+    align-content: center;
+}
+
+label {
+    margin: 2px;
+}
+
+@media (min-width: 300px) {
+    .bd-placeholder-img-lg {
+        font-size: 3rem;
+    }
+
+}
